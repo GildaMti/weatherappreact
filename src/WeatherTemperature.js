@@ -34,7 +34,7 @@ return(
                <a href="/" onClick={convertToCelsius}>
                   C 
                  </a>{" "}
-                 |  °F
+                 |  F
                  </span> 
          </div> 
         
