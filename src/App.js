@@ -6,7 +6,7 @@ export default function App(){
         <div className="container">
         <Weather  defaultCity="New York"/>
         <footer>
-        This project was coded by Mozhdeh Matalebi and is {" "} <a href="https://github.com" target="_blank">open-sourced on Github </a>
+        This project was coded by Mozhdeh Matalebi and is {" "} <a href="https://github.com/GildaMti/weatherappreact" >open-sourced on Github </a>
         </footer>
     </div>
     </div>
